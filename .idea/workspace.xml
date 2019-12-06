@@ -348,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575648514195</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Exelerator НД">
+      <created>1575648865077</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1575648865077</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -360,6 +367,11 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/Command_print" />
+      <path value="$PROJECT_DIR$/Padeg_Exel" />
+    </ignored-roots>
     <MESSAGE value="1" />
     <MESSAGE value="Разбиение и сортировка" />
     <MESSAGE value=" C_Docnormative" />
@@ -380,10 +392,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575041826864" />
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1575648514199">
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1575648858668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575648514199" />
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575648858668" />
     <state x="184" y="85" key="DiffContextDialog" timestamp="1575646923983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -420,10 +432,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="187" key="SettingsEditor/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575648724689" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575648393157">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575648900439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575648393157" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575648900439" />
     <state x="717" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1575646954370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

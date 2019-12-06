@@ -1,4 +1,4 @@
-package main.java.exelerator;
+package exelerator;
 
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;

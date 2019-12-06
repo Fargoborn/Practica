@@ -1,4 +1,4 @@
-package main.java.exelerator;
+package exelerator;
 
 
 import java.io.BufferedWriter;
