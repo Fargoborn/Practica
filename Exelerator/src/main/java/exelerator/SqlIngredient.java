@@ -33,7 +33,7 @@ public class SqlIngredient {
     }
 
     public String updel_MSSQL  (String old_id, String new_id) {
-        return ("EXECUTE TransfareID \"C_Ingredient\", " + old_id + ", " + new_id + ");\n");
+        return ("EXECUTE TransfareID \"C_Ingredient\", " + old_id + ", " + new_id + ";\n");
     }
 
     public String updel_InterBase  (String old_id, String new_id) {
