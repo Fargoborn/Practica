@@ -9,11 +9,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64ed938c-d061-457f-a280-078f9e66f2a3" name="Default Changelist" comment="Программа формирования списка с основаниями премирования.&#10;исправления">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="64ed938c-d061-457f-a280-078f9e66f2a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Exelerator_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Exelerator_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/SqlIngredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/SqlIngredient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/src/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/src/Mine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/ExelBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/ExelBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/Mine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/premium/target/" />
@@ -34,34 +35,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/Mine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="350">
+              <caret line="61" column="80" lean-forward="true" selection-start-line="61" selection-start-column="80" selection-end-line="61" selection-end-column="80" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exelerator/target/classes/main/java/exelerator/SqlIngredient.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#1917#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/SqlIngredient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="35" column="91" lean-forward="true" selection-start-line="35" selection-start-column="91" selection-end-line="35" selection-end-column="91" />
             </state>
           </provider>
         </entry>
@@ -120,9 +101,11 @@
         <option value="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/C_DocNorm.java" />
         <option value="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/C_Ingredient.java" />
         <option value="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/SqlND.java" />
-        <option value="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/ExelBook.java" />
         <option value="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/Main.java" />
         <option value="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/SqlIngredient.java" />
+        <option value="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/ExelBook.java" />
+        <option value="$PROJECT_DIR$/Command_print/src/Mine.java" />
+        <option value="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/Mine.java" />
       </list>
     </option>
   </component>
@@ -156,41 +139,6 @@
             <path>
               <item name="work" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practica" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practica" type="462c0819:PsiDirectoryNode" />
-              <item name="Exelerator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practica" type="462c0819:PsiDirectoryNode" />
-              <item name="Exelerator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practica" type="462c0819:PsiDirectoryNode" />
-              <item name="Exelerator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practica" type="462c0819:PsiDirectoryNode" />
-              <item name="Exelerator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practica" type="462c0819:PsiDirectoryNode" />
-              <item name="Exelerator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exelerator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="work" type="b2602c69:ProjectViewProjectNode" />
@@ -258,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IngInserter">
+  <component name="RunManager" selected="Application.Mine">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -300,6 +248,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pdkconverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setrandomtime.Mine" />
+      <module name="Practica" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setrandomtime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,6 +316,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mine" />
         <item itemvalue="Application.IngInserter" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
@@ -421,14 +384,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575054586400</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Программа">
+      <created>1575657364755</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575657364755</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11673774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.098614074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -466,23 +436,14 @@
     <MESSAGE value="получение эксель" />
     <MESSAGE value="сделан вывод в эксель" />
     <MESSAGE value="Программа формирования списка с основаниями премирования.&#10;исправления" />
-    <option name="LAST_COMMIT_MESSAGE" value="Программа формирования списка с основаниями премирования.&#10;исправления" />
+    <MESSAGE value="Программа" />
+    <option name="LAST_COMMIT_MESSAGE" value="Программа" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/premium/src/main/java/premiumexel/GetDoc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/premium/src/main/java/premiumexel/Print.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
@@ -714,24 +675,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/ExelBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/C_Ingredient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-start-column="8" selection-end-column="8" />
@@ -755,16 +699,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/Mine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exelerator/target/classes/main/java/exelerator/SqlIngredient.class">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -778,6 +712,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="35" column="91" lean-forward="true" selection-start-line="35" selection-start-column="91" selection-end-line="35" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/ExelBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_print/src/Mine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/Mine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="61" column="80" lean-forward="true" selection-start-line="61" selection-start-column="80" selection-end-line="61" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -23,9 +23,9 @@ public class ExelBook {
 
     //получаем книгу
     public Workbook getBook() throws IOException {
+      InputStreamReader isr = new InputStreamReader(System.in);
+      BufferedReader reader  = new BufferedReader(isr);
         System.out.println("Введите путь к файлу: ");
-        InputStreamReader isr = new InputStreamReader(System.in);
-        BufferedReader reader  = new BufferedReader(isr);
         url = reader.readLine();
         System.out.println("Введите имя файла: ");
         f_url = url + "\\" + reader.readLine();
