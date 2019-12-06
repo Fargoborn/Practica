@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Command_print:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Command_print_jar</output-path>
+    <root id="archive" name="Command_print.jar">
+      <element id="module-output" name="Command_print" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/lib/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/poi-bin-3.17-20170915/poi-3.17/ooxml-lib/curvesapi-1.04.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/poi-bin-3.17-20170915/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

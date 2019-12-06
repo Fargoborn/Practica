@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Set_Random_Time:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Set_Random_Time_jar</output-path>
+    <root id="archive" name="Set_Random_Time.jar">
+      <element id="module-output" name="Set_Random_Time" />
+    </root>
+  </artifact>
+</component>

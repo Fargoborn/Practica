@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="postgresql-42.2.6">
+    <CLASSES>
+      <root url="jar://C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2017.3.1/lib/lib/postgresql-42.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
