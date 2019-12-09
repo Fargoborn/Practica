@@ -6,16 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="premium" />
         <module name="Exelerator" />
-        <module name="pdkconverter" />
+        <module name="premium" />
+        <module name="prikazall" />
         <module name="Padeg_Exel" />
         <module name="exelerator" />
+        <module name="pdkconverter" />
+        <module name="setrandomtime" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Exelerator" target="1.8" />
-      <module name="Practica" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

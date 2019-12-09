@@ -10,7 +10,7 @@ public class Mine {
       BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
       System.out.println("Введите дату в формате ddmmyy:");
         String _date = reader.readLine();
-        SimpleDateFormat dateFormat = new SimpleDateFormat("ddmmyy");
+        SimpleDateFormat dateFormat = new SimpleDateFormat("ddMMyy");
         System.out.println(dateFormat.parse(_date));
         Date sdate = dateFormat.parse(_date);
 
