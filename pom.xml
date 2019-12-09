@@ -15,7 +15,7 @@
 	</properties>
     <modules>
         <module>premium</module>
-    </modules>
+	</modules>
     <dependencies>
 		<dependency>
 			<groupId>org.hamcrest</groupId>
