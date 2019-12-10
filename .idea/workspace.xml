@@ -7,13 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3547c232-46ba-4f04-9cc0-389030691f57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Practica.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/Out/work.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/Pikaz_all.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/src/prikazall/ExelBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/src/prikazall/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/target/classes/prikazall/ExelBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pikaz_all/target/classes/prikazall/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -388,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575904646888</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Prikaz_all">
+      <created>1575910619770</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1575910619770</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -437,10 +453,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575873525505" />
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1575910571815">
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1575910618832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575910571815" />
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575910618832" />
     <state x="184" y="85" key="DiffContextDialog" timestamp="1575646923983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -449,22 +465,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575894938944" />
-    <state width="1876" height="268" key="GridCell.Tab.0.bottom" timestamp="1575907246034">
+    <state width="1876" height="268" key="GridCell.Tab.0.bottom" timestamp="1575963913780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575907246034" />
-    <state width="1876" height="268" key="GridCell.Tab.0.center" timestamp="1575907246034">
+    <state width="1876" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575963913780" />
+    <state width="1876" height="268" key="GridCell.Tab.0.center" timestamp="1575963913779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575907246034" />
-    <state width="1876" height="268" key="GridCell.Tab.0.left" timestamp="1575907246034">
+    <state width="1876" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575963913779" />
+    <state width="1876" height="268" key="GridCell.Tab.0.left" timestamp="1575963913779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575907246034" />
-    <state width="1876" height="268" key="GridCell.Tab.0.right" timestamp="1575907246034">
+    <state width="1876" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575963913779" />
+    <state width="1876" height="268" key="GridCell.Tab.0.right" timestamp="1575963913780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575907246034" />
+    <state width="1876" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575963913780" />
     <state x="490" y="177" key="Maven.ArtifactSearchDialog" timestamp="1575909610254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -481,10 +497,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="187" key="SettingsEditor/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575907178230" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575904651503">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575910625548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575904651503" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575910625548" />
     <state x="717" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1575646954370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

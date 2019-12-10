@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d263e94b-c21f-46e5-b9cf-218f1c75ddb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exelerator/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set_Random_Time/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Practica.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Practica.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exelerator/target/classes/main/java/exelerator/C_DocNorm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exelerator/target/classes/main/java/exelerator/C_Ingredient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exelerator/target/classes/main/java/exelerator/ExelBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exelerator/target/classes/main/java/exelerator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exelerator/target/classes/main/java/exelerator/SqlIngredient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exelerator/target/classes/main/java/exelerator/SqlND.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Padeg_Exel/target/classes/padeg_exel/Get_NativePadeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Padeg_Exel/target/classes/padeg_exel/Get_NativePadeg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set_Random_Time/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Set_Random_Time/src/setrandomtime/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Set_Random_Time/src/setrandomtime/Mine.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1UjqhETZ9WhrApbcnJAkIrcdIAx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d263e94b-c21f-46e5-b9cf-218f1c75ddb0" name="Default Changelist" comment="" />
+      <created>1575880468474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575880468474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1575880517392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575880517392" />
+  </component>
+</project>
