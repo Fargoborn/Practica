@@ -7,25 +7,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3547c232-46ba-4f04-9cc0-389030691f57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/Ing_dubl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set_Random_Time/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_6.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Padeg_Exel/target/classes/padeg_exel/Get_NativePadeg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Padeg_Exel/target/classes/padeg_exel/Get_Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Padeg_Exel/target/classes/padeg_exel/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Padeg_Exel/target/classes/padeg_exel/PadegBean$ResultItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Padeg_Exel/target/classes/padeg_exel/PadegBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Padeg_Exel/target/classes/padeg_exel/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/.idea/artifacts/Command_print_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/.idea/artifacts/Command_print_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/out/artifacts/Command_print_jar.rar" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/out/artifacts/Command_print_jar.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/out/artifacts/Command_print_jar/Command_print.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/out/artifacts/Command_print_jar/Command_print.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/out/production/Command_print/G1Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/out/production/Command_print/G1Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/out/production/Command_print/G2Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/out/production/Command_print/G2Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/out/production/Command_print/G3Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/out/production/Command_print/G3Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/out/production/Command_print/GruppAllOrderPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/out/production/Command_print/GruppAllOrderPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/out/production/Command_print/Mine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/out/production/Command_print/Mine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/out/production/Command_print/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/out/production/Command_print/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command_print/src/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/src/Mine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDKConverter/src/main/java/pdkconverter/ConnectDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/PDKConverter/src/main/java/pdkconverter/ConnectDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/PadegBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/PadegBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pikaz_all/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pikaz_all/target/classes/prikazall/ExelBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pikaz_all/target/classes/prikazall/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -78,7 +90,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Set_Random_Time/src" />
-    <property name="last_opened_file_path" value="C:/Tools/postgresql-42.2.6.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Command_print" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -86,18 +98,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Pikaz_all" />
-      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Set_Random_Time" />
-      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Exelerator" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="prikazall" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Vaadin_test" />
       <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\premium" />
       <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Padeg_Exel\src\main\java\padeg_exel" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="prikazall" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica" />
+      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Pikaz_all" />
+      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Set_Random_Time" />
+      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Exelerator" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -105,7 +118,7 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Mine (1)">
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prikazall.Main" />
       <module name="prikazall" />
@@ -133,8 +146,9 @@
       </method>
     </configuration>
     <configuration name="Mine (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Mine" />
-      <module name="Practica" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,26 +166,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="setrandomtime.Mine" />
-      <module name="Practica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="setrandomtime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Mine_new" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mine_new" />
+      <module name="Pricaz_all" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mine (1)" />
+        <item itemvalue="Application.Mine_new" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Mine (2)" />
-        <item itemvalue="Application.Mine (1)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Mine" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +213,7 @@
       <workItem from="1575986330562" duration="841000" />
       <workItem from="1575987426565" duration="1809000" />
       <workItem from="1577354572792" duration="585000" />
-      <workItem from="1577529555427" duration="15959000" />
+      <workItem from="1577529555427" duration="23415000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1561990458270</created>
@@ -396,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575963956416</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Произвольное сравнение таблиц">
+      <created>1578299656656</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1578299656656</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,9 +434,14 @@
     <MESSAGE value="Exelerator" />
     <MESSAGE value="Exelerator НД" />
     <MESSAGE value="Prikaz_all" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prikaz_all" />
+    <MESSAGE value="Произвольное сравнение таблиц" />
+    <option name="LAST_COMMIT_MESSAGE" value="Произвольное сравнение таблиц" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="677" y="177" key="#Mine_(1)" timestamp="1578313311017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="177" key="#Mine_(1)/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578313311017" />
     <state x="552" y="177" key="#Project_Structure" timestamp="1575880561748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -450,38 +470,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1577195859035" />
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1575963955089">
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1578299651904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575963955089" />
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578299651904" />
     <state x="184" y="85" key="DiffContextDialog" timestamp="1575646923983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575646923983" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1576580368189">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1578313742068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1576580368189" />
-    <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1578299582349">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578313742068" />
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1578313673117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578299582349" />
-    <state width="1876" height="276" key="GridCell.Tab.0.center" timestamp="1578299582349">
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578313673117" />
+    <state width="1876" height="276" key="GridCell.Tab.0.center" timestamp="1578313673117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578299582349" />
-    <state width="1876" height="276" key="GridCell.Tab.0.left" timestamp="1578299582348">
+    <state width="1876" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578313673117" />
+    <state width="1876" height="276" key="GridCell.Tab.0.left" timestamp="1578313673116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578299582348" />
-    <state width="1876" height="276" key="GridCell.Tab.0.right" timestamp="1578299582349">
+    <state width="1876" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578313673116" />
+    <state width="1876" height="276" key="GridCell.Tab.0.right" timestamp="1578313673117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578299582349" />
-    <state x="490" y="177" key="Maven.ArtifactSearchDialog" timestamp="1576580334827">
+    <state width="1876" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578313673117" />
+    <state x="490" y="177" key="Maven.ArtifactSearchDialog" timestamp="1578311519700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="490" y="177" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1576580334827" />
+    <state x="490" y="177" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578311519700" />
     <state x="184" y="85" key="MergeDialog" timestamp="1575873313221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -490,14 +510,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="672" y="235" key="MultipleFileMergeDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575873317344" />
-    <state x="627" y="187" key="SettingsEditor" timestamp="1577535559326">
+    <state x="627" y="187" key="SettingsEditor" timestamp="1578313686600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="627" y="187" key="SettingsEditor/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1577535559326" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575963967589">
+    <state x="627" y="187" key="SettingsEditor/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578313686600" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1578299671857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575963967589" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578299671857" />
     <state x="717" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1575646954370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

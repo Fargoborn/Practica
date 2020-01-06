@@ -1,10 +1,10 @@
 package padeg_exel;
 
+import padeg.lib.Padeg;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
-import padeg.lib.Padeg;
-
 
 public class PadegBean implements Serializable {
 

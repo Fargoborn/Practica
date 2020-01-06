@@ -123,17 +123,43 @@ public class Mine {
                 try{
 
                     if (N_ORD != null ){
-                    N_Ord = N_ORD.getNumericCellValue();
-                    date_Ord = DATE_Ord.getDateCellValue();
-                    tabel = TABEL.getNumericCellValue();
+                        if (N_ORD.getCellType() == Cell.CELL_TYPE_NUMERIC) {
+                            N_Ord = N_ORD.getNumericCellValue();
+                        } else {
+                            N_Ord = Integer.parseInt(N_ORD.getStringCellValue().trim());
+                        }
+                        if (DATE_Ord.getCellType() == Cell.CELL_TYPE_NUMERIC) {
+                            date_Ord = DATE_Ord.getDateCellValue();
+                        } else {
+                            SimpleDateFormat format = new SimpleDateFormat();
+                            format.applyPattern("dd.MM.yyyy");
+                            date_Ord = format.parse(DATE_Ord.getStringCellValue().trim());
+                        }
+                        if (TABEL.getCellType() == Cell.CELL_TYPE_NUMERIC) {
+                            tabel = TABEL.getNumericCellValue();
+                        } else {
+                            tabel = Integer.parseInt(TABEL.getStringCellValue().trim());
+                        }
                     name = NAME.getStringCellValue().trim();
                     S_Unit = S_UNIT.getStringCellValue().trim();
                     Present_pos = PRESENT_POS.getStringCellValue().trim();
                     adres_city = ADRES_CITY.getStringCellValue().trim();
                     adres_in = ADRES_IN.getStringCellValue().trim();
                     bisnes = BISNES.getStringCellValue();
-                    date_s = DATE_S.getDateCellValue();
-                    date_f = DATE_F.getDateCellValue();
+                        if (DATE_S.getCellType() == Cell.CELL_TYPE_NUMERIC) {
+                            date_s = DATE_S.getDateCellValue();
+                        } else {
+                            SimpleDateFormat format = new SimpleDateFormat();
+                            format.applyPattern("dd.MM.yyyy");
+                            date_s = format.parse(DATE_S.getStringCellValue().trim());
+                        }
+                        if (DATE_F.getCellType() == Cell.CELL_TYPE_NUMERIC) {
+                            date_f = DATE_F.getDateCellValue();
+                        } else {
+                            SimpleDateFormat format = new SimpleDateFormat();
+                            format.applyPattern("dd.MM.yyyy");
+                            date_f = format.parse(DATE_F.getStringCellValue().trim());
+                        }
                         System.out.println(N_Ord + " " + date_s + " " + date_f);
                     }
                     else {break;}

@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Exelerator" />
         <module name="premium" />
-        <module name="prikazall" />
         <module name="Padeg_Exel" />
         <module name="exelerator" />
         <module name="pdkconverter" />
@@ -17,6 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Exelerator" target="1.8" />
+      <module name="prikazall" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
