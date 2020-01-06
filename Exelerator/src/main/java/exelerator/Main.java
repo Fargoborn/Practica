@@ -22,6 +22,9 @@ public class Main {
         System.out.println("1. C_Docnorm");
         System.out.println("2. C_Ingr");
         System.out.println("3. C_Prod");
+
+        System.out.println("4. Ing_dubl");
+        System.out.println("5. Сравнение таблиц");
         System.out.println("*****************");
 
         InputStreamReader isr = new InputStreamReader(System.in);
@@ -36,6 +39,16 @@ public class Main {
         if(line.equals("2")) {
             C_Ingredient c_ingredient = new C_Ingredient();
             c_ingredient.run_C_Ingredient();
+        }
+
+        if(line.equals("4")) {
+            Ing_dubl ing_dubl = new Ing_dubl();
+            ing_dubl.run();
+        }
+
+        if(line.equals("5")) {
+            Comparator comparator = new Comparator();
+            comparator.compare();
         }
     }
 }
