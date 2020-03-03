@@ -5,9 +5,10 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 
-import java.io.*;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.Iterator;
 
 public class Get_Person {
@@ -101,7 +102,7 @@ public class Get_Person {
                     N_Ord = N_ORD.getNumericCellValue();
                     System.out.println(N_Ord);
                     date_Ord = DATE_ORD.getStringCellValue();
-                    date_OrdOrd = DATE_ORDORD.getStringCellValue();
+                    date_OrdOrd = date_Ord;
                     //System.out.println(name);
                     //arrayList_NAME.add(name);
                     list_Person.add(new Person(name, tabel, S_Unit, New_S_Unit, Present_pos, New_Present_pos, Prise, date_new_transfer, N_Ord, date_Ord, date_OrdOrd));

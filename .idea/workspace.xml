@@ -6,10 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3547c232-46ba-4f04-9cc0-389030691f57" name="Default Changelist" comment="">
+    <list default="true" id="3547c232-46ba-4f04-9cc0-389030691f57" name="Default Changelist" comment="Игнор пробелов в приказах">
+      <change afterPath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Command_print/out/artifacts/Command_print_jar.rar" beforeDir="false" afterPath="$PROJECT_DIR$/Command_print/out/artifacts/Command_print_jar.rar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/setrandomtime/Mine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Get_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Get_Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/setrandomtime/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/setrandomtime/Mine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +71,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime" />
-    <property name="last_opened_file_path" value="D:/dictionaryrpn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31386292" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
@@ -98,10 +99,23 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="padeg_exel.Main" />
+      <module name="Padeg_Exel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padeg_exel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prikazall.Main" />
-      <module name="prikazall" />
+      <module name="Pricaz_all" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="prikazall.*" />
@@ -112,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exelerator.Main" />
-      <module name="exelerator" />
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="address.MainApp" />
+      <module name="Pricaz_all" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exelerator.*" />
+          <option name="PATTERN" value="address.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,19 +160,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mine_new" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mine_new" />
-      <module name="Pricaz_all" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.Mine" />
         <item itemvalue="Application.Mine (1)" />
-        <item itemvalue="Application.Mine_new" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +203,14 @@
       <workItem from="1577529555427" duration="27921000" />
       <workItem from="1578656865658" duration="583000" />
       <workItem from="1578658063254" duration="16000" />
-      <workItem from="1578747111029" duration="1397000" />
+      <workItem from="1578747111029" duration="1686000" />
+      <workItem from="1579769816611" duration="5233000" />
+      <workItem from="1581166407013" duration="728000" />
+      <workItem from="1581174339445" duration="410000" />
+      <workItem from="1581660505304" duration="1593000" />
+      <workItem from="1581687946350" duration="167000" />
+      <workItem from="1582643893403" duration="790000" />
+      <workItem from="1583226128238" duration="2751000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1561990458270</created>
@@ -400,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578316008222</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Игнор пробелов в приказах">
+      <created>1578752182442</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1578752182443</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,10 +470,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1576225513327" />
-    <state x="910" y="396" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576581560531">
+    <state x="910" y="396" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579774373223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="910" y="396" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1576581560531" />
+    <state x="910" y="396" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1579774373223" />
     <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576580179957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -460,34 +482,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1577195859035" />
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1578315993850">
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1581688124708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578315993850" />
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1581688124708" />
     <state x="184" y="85" key="DiffContextDialog" timestamp="1575646923983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575646923983" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1578749108861">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1581688139403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578749108861" />
-    <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1578484697116">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1581688139403" />
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1583236563855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578484697116" />
-    <state width="1876" height="276" key="GridCell.Tab.0.center" timestamp="1578484697116">
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236563855" />
+    <state width="1876" height="276" key="GridCell.Tab.0.center" timestamp="1583236563843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578484697116" />
-    <state width="1876" height="276" key="GridCell.Tab.0.left" timestamp="1578484697116">
+    <state width="1876" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236563843" />
+    <state width="1876" height="276" key="GridCell.Tab.0.left" timestamp="1583236563843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578484697116" />
-    <state width="1876" height="276" key="GridCell.Tab.0.right" timestamp="1578484697116">
+    <state width="1876" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236563843" />
+    <state width="1876" height="276" key="GridCell.Tab.0.right" timestamp="1583236563847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578484697116" />
+    <state width="1876" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236563847" />
     <state x="490" y="177" key="Maven.ArtifactSearchDialog" timestamp="1578311519700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -500,14 +522,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="672" y="235" key="MultipleFileMergeDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575873317344" />
-    <state x="627" y="187" key="SettingsEditor" timestamp="1578316727908">
+    <state x="627" y="187" key="SettingsEditor" timestamp="1582644134619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="627" y="187" key="SettingsEditor/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578316727908" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1578316002402">
+    <state x="627" y="187" key="SettingsEditor/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1582644134619" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1578752203574">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578316002402" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578752203574" />
     <state x="717" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1575646954370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -528,10 +550,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="299" key="extract.method.dialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1577536305220" />
-    <state x="342" y="139" key="new project wizard" timestamp="1575986867684">
+    <state x="342" y="139" key="new project wizard" timestamp="1581167639943">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="139" key="new project wizard/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575986867684" />
+    <state x="342" y="139" key="new project wizard/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1581167639943" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1575282521706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
