@@ -6,8 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3547c232-46ba-4f04-9cc0-389030691f57" name="Default Changelist" comment="Игнор пробелов в приказах">
-      <change afterPath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/META-INF/MANIFEST.MF" afterDir="false" />
+    <list default="true" id="3547c232-46ba-4f04-9cc0-389030691f57" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Get_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Get_Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/setrandomtime/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/setrandomtime/Mine.java" afterDir="false" />
@@ -67,13 +66,14 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31386292" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
@@ -99,7 +99,7 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Mine">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="padeg_exel.Main" />
       <module name="Padeg_Exel" />
@@ -162,10 +162,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mine" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainApp" />
-        <item itemvalue="Application.Mine" />
         <item itemvalue="Application.Mine (1)" />
       </list>
     </recent_temporary>
@@ -210,7 +210,8 @@
       <workItem from="1581660505304" duration="1593000" />
       <workItem from="1581687946350" duration="167000" />
       <workItem from="1582643893403" duration="790000" />
-      <workItem from="1583226128238" duration="2751000" />
+      <workItem from="1583226128238" duration="4294000" />
+      <workItem from="1583578878688" duration="5609000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1561990458270</created>
@@ -422,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578752182443</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Игнор пробелов в приказах">
+      <created>1583236913264</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1583236913264</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,10 +490,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1577195859035" />
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1581688124708">
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1583236910124">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1581688124708" />
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236910124" />
     <state x="184" y="85" key="DiffContextDialog" timestamp="1575646923983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -494,22 +502,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1581688139403" />
-    <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1583236563855">
+    <state width="1876" height="149" key="GridCell.Tab.0.bottom" timestamp="1583583414965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236563855" />
-    <state width="1876" height="276" key="GridCell.Tab.0.center" timestamp="1583236563843">
+    <state width="1876" height="149" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583583414965" />
+    <state width="1876" height="149" key="GridCell.Tab.0.center" timestamp="1583583414964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236563843" />
-    <state width="1876" height="276" key="GridCell.Tab.0.left" timestamp="1583236563843">
+    <state width="1876" height="149" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583583414964" />
+    <state width="1876" height="149" key="GridCell.Tab.0.left" timestamp="1583583414964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236563843" />
-    <state width="1876" height="276" key="GridCell.Tab.0.right" timestamp="1583236563847">
+    <state width="1876" height="149" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583583414964" />
+    <state width="1876" height="149" key="GridCell.Tab.0.right" timestamp="1583583414965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236563847" />
+    <state width="1876" height="149" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583583414965" />
     <state x="490" y="177" key="Maven.ArtifactSearchDialog" timestamp="1578311519700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -522,14 +530,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="672" y="235" key="MultipleFileMergeDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575873317344" />
-    <state x="627" y="187" key="SettingsEditor" timestamp="1582644134619">
+    <state x="627" y="187" key="SettingsEditor" timestamp="1583584183343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="627" y="187" key="SettingsEditor/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1582644134619" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1578752203574">
+    <state x="627" y="187" key="SettingsEditor/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583584183343" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1583236922808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578752203574" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236922808" />
     <state x="717" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1575646954370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
