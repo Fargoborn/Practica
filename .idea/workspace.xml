@@ -2,25 +2,98 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="setrandomtime:jar" />
+      <artifact name="Prikaz_all:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3547c232-46ba-4f04-9cc0-389030691f57" name="Default Changelist" comment="">
+    <list default="true" id="64ed938c-d061-457f-a280-078f9e66f2a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/Mine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Exelerator_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Exelerator_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padeg_Exel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Padeg_Exel/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Get_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Get_Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/setrandomtime/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/setrandomtime/Mine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/PadegBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/PadegBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Random_Time/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Random_Time/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Random_Time/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Random_Time/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Random_Time/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Random_Time/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Random_Time/Set_Random_Time.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Random_Time/Set_Random_Time.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Random_Time/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Random_Time/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/PDKConverter/target/" />
+    <ignored path="$PROJECT_DIR$/premium/target/" />
+    <ignored path="$PROJECT_DIR$/Set_Random_Time/target/" />
+    <ignored path="$PROJECT_DIR$/Exelerator/target/" />
+    <ignored path="E:\Git_Rep\Practica\.idea\shelf/" />
+    <ignored path="$PROJECT_DIR$/premium/out/" />
+    <ignored path="$PROJECT_DIR$/Padeg_Exel/target/" />
+    <ignored path="$PROJECT_DIR$/Set_Rand/target/" />
+    <ignored path="$PROJECT_DIR$/Pikaz_all/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/PadegBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Padeg_Exel/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="91" column="51" selection-start-line="91" selection-start-column="51" selection-end-line="91" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Get_Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="101" column="46" lean-forward="true" selection-start-line="101" selection-start-column="46" selection-end-line="101" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,6 +116,22 @@
       <GitPushTagMode />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Exelerator/src/main/java/exelerator/SqlPDKProduct.java" />
+        <option value="$PROJECT_DIR$/PDKConverter/src/main/java/pdkconverter/ConnectDB.java" />
+        <option value="$PROJECT_DIR$/Set_Rand/src/setrandomtime/Mine.java" />
+        <option value="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/Mine.java" />
+        <option value="$PROJECT_DIR$/Set_Rand/pom.xml" />
+        <option value="$PROJECT_DIR$/Set_Rand/src/setrand/Mine.java" />
+        <option value="$PROJECT_DIR$/Padeg_Exel/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/PadegBean.java" />
+        <option value="$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Get_Person.java" />
+      </list>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -50,9 +139,68 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="y" value="5" />
+    <option name="width" value="1157" />
+    <option name="height" value="1035" />
+  </component>
   <component name="ProjectId" id="1UHvhU8NJzTPCbHEepAMblr0dMI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Padeg_Exel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Padeg_Exel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Padeg_Exel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Padeg_Exel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Padeg_Exel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="padeg_exel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -64,34 +212,33 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/Set_Random_Time/src/setrandomtime" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593987488551" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Set_Random_Time/src" />
+    <property name="last_opened_file_path" value="C:/Tools/padeg-3.3.0.24.jar!/" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31386292" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Git_Rep\Practica" />
+      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Pikaz_all" />
+      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Set_Random_Time" />
+      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Exelerator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exelerator" />
+      <recent name="prikazall" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Vaadin_test" />
       <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\premium" />
       <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Padeg_Exel\src\main\java\padeg_exel" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="prikazall" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica" />
-      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Pikaz_all" />
-      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Set_Random_Time" />
-      <recent name="C:\Users\dbarshhevskijj\IdeaProjects\Practica\Exelerator" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -99,7 +246,19 @@
       <command value="mvn" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mine">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="padeg_exel.Main" />
       <module name="Padeg_Exel" />
@@ -113,9 +272,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prikazall.Main" />
-      <module name="Pricaz_all" />
+      <module name="prikazall" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="prikazall.*" />
@@ -126,12 +285,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="address.MainApp" />
-      <module name="Pricaz_all" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exelerator.Main" />
+      <module name="exelerator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="address.*" />
+          <option name="PATTERN" value="exelerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pdkconverter.Main" />
+      <module name="pdkconverter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pdkconverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Main" />
+      <module name="Exelerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.exelerator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,19 +325,11 @@
       </method>
     </configuration>
     <configuration name="Mine (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11.0.4" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Mine" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="setrandomtime.Mine" />
-      <module name="setrandomtime" />
+      <option name="MAIN_CLASS_NAME" value="setrand.Mine" />
+      <module name="Set_Rand" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="setrandomtime.*" />
+          <option name="PATTERN" value="setrand.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,13 +337,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="exelerator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="exelerator" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mine" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.Mine (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -187,31 +411,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3547c232-46ba-4f04-9cc0-389030691f57" name="Default Changelist" comment="" />
+      <changelist id="64ed938c-d061-457f-a280-078f9e66f2a3" name="Default Changelist" comment="" />
       <created>1561971861861</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561971861861</updated>
       <workItem from="1561971865423" duration="605000" />
       <workItem from="1561979332669" duration="5450000" />
-      <workItem from="1575966197116" duration="35000" />
-      <workItem from="1575975366508" duration="9000" />
-      <workItem from="1575975435319" duration="237000" />
-      <workItem from="1575986330562" duration="841000" />
-      <workItem from="1575987426565" duration="1809000" />
-      <workItem from="1577354572792" duration="585000" />
-      <workItem from="1577529555427" duration="27921000" />
-      <workItem from="1578656865658" duration="583000" />
-      <workItem from="1578658063254" duration="16000" />
-      <workItem from="1578747111029" duration="1686000" />
-      <workItem from="1579769816611" duration="5233000" />
-      <workItem from="1581166407013" duration="728000" />
-      <workItem from="1581174339445" duration="410000" />
-      <workItem from="1581660505304" duration="1593000" />
-      <workItem from="1581687946350" duration="167000" />
-      <workItem from="1582643893403" duration="790000" />
-      <workItem from="1583226128238" duration="4294000" />
-      <workItem from="1583578878688" duration="5609000" />
+      <workItem from="1586547139916" duration="664000" />
+      <workItem from="1587494996407" duration="59000" />
+      <workItem from="1588152437059" duration="413000" />
+      <workItem from="1588230568067" duration="599000" />
+      <workItem from="1588601460451" duration="7437000" />
+      <workItem from="1588663863200" duration="680000" />
+      <workItem from="1593202214006" duration="225000" />
+      <workItem from="1593202484419" duration="1476000" />
+      <workItem from="1593204002143" duration="355000" />
+      <workItem from="1593204431545" duration="12401000" />
+      <workItem from="1593226132650" duration="419000" />
+      <workItem from="1593245304738" duration="2021000" />
+      <workItem from="1593980594355" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1561990458270</created>
@@ -389,55 +608,58 @@
       <updated>1575904646888</updated>
     </task>
     <task id="LOCAL-00026" summary="Prikaz_all">
-      <created>1575910619770</created>
+      <created>1593982306756</created>
       <option name="number" value="00026" />
       <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1575910619770</updated>
+      <updated>1593982306756</updated>
     </task>
-    <task id="LOCAL-00027" summary="Prikaz_all">
-      <created>1575963956416</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1575963956416</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Произвольное сравнение таблиц">
-      <created>1578299656656</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1578299656656</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Игнор пробелов в приказах">
-      <created>1578316008222</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1578316008222</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Игнор пробелов в приказах">
-      <created>1578752182442</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1578752182443</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Игнор пробелов в приказах">
-      <created>1583236913264</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1583236913264</updated>
-    </task>
-    <option name="localTasksCounter" value="32" />
+    <option name="localTasksCounter" value="27" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38109000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13486141" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="DB Browser" order="7" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39328277" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6143012" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" />
+      <window_info anchor="bottom" id="DB Execution Console" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32921347" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/Command_print" />
@@ -453,118 +675,389 @@
     <MESSAGE value="Exelerator" />
     <MESSAGE value="Exelerator НД" />
     <MESSAGE value="Prikaz_all" />
-    <MESSAGE value="Произвольное сравнение таблиц" />
-    <MESSAGE value="Игнор пробелов в приказах" />
-    <option name="LAST_COMMIT_MESSAGE" value="Игнор пробелов в приказах" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prikaz_all" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="677" y="177" key="#Mine_(1)" timestamp="1578313311017">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="677" y="177" key="#Mine_(1)/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578313311017" />
-    <state x="552" y="177" key="#Project_Structure" timestamp="1575880561748">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="177" key="#Project_Structure/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575880561748" />
-    <state x="435" y="222" key="#TODO" timestamp="1575646096411">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="435" y="222" key="#TODO/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575646096411" />
-    <state x="690" y="277" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1577530814780">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="277" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1577530814780" />
-    <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1576225513327">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1576225513327" />
-    <state x="910" y="396" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579774373223">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="910" y="396" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1579774373223" />
-    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576580179957">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1576580179957" />
-    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577195859035">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1577195859035" />
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" timestamp="1583236910124">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236910124" />
-    <state x="184" y="85" key="DiffContextDialog" timestamp="1575646923983">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575646923983" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1581688139403">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1581688139403" />
-    <state width="1876" height="149" key="GridCell.Tab.0.bottom" timestamp="1583583414965">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="149" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583583414965" />
-    <state width="1876" height="149" key="GridCell.Tab.0.center" timestamp="1583583414964">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="149" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583583414964" />
-    <state width="1876" height="149" key="GridCell.Tab.0.left" timestamp="1583583414964">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="149" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583583414964" />
-    <state width="1876" height="149" key="GridCell.Tab.0.right" timestamp="1583583414965">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="149" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583583414965" />
-    <state x="490" y="177" key="Maven.ArtifactSearchDialog" timestamp="1578311519700">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="490" y="177" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578311519700" />
-    <state x="184" y="85" key="MergeDialog" timestamp="1575873313221">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="184" y="85" key="MergeDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575873313221" />
-    <state x="672" y="235" key="MultipleFileMergeDialog" timestamp="1575873317344">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="672" y="235" key="MultipleFileMergeDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575873317344" />
-    <state x="627" y="187" key="SettingsEditor" timestamp="1583584183343">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="627" y="187" key="SettingsEditor/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583584183343" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1583236922808">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1583236922808" />
-    <state x="717" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1575646954370">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="717" y="253" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575646954370" />
-    <state x="776" y="297" key="chooseDestDirectoryDialog" timestamp="1578479737351">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="776" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1578479737351" />
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1575986341074">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575986341074" />
-    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575910445381">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575910445381" />
-    <state x="690" y="299" key="extract.method.dialog" timestamp="1577536305220">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="299" key="extract.method.dialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1577536305220" />
-    <state x="342" y="139" key="new project wizard" timestamp="1581167639943">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="342" y="139" key="new project wizard/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1581167639943" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1575282521706">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" timestamp="1575282521706" />
+    <state x="552" y="177" key="#Project_Structure" />
+    <state x="552" y="177" key="#Project_Structure/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="435" y="222" key="#TODO" />
+    <state x="435" y="222" key="#TODO/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser" />
+    <state x="765" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="910" y="396" key="#com.intellij.ide.util.TreeClassChooserDialog" />
+    <state x="910" y="396" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" />
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2" />
+    <state x="454" y="113" width="777" height="904" key="CommitChangelistDialog2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="184" y="85" key="DiffContextDialog" />
+    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="740" y="274" key="FileChooserDialogImpl" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state width="1876" height="268" key="GridCell.Tab.0.bottom" />
+    <state width="1876" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state width="1876" height="268" key="GridCell.Tab.0.center" />
+    <state width="1876" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state width="1876" height="268" key="GridCell.Tab.0.left" />
+    <state width="1876" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state width="1876" height="268" key="GridCell.Tab.0.right" />
+    <state width="1876" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="490" y="177" key="Maven.ArtifactSearchDialog" />
+    <state x="490" y="177" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="184" y="85" key="MergeDialog" />
+    <state x="184" y="85" key="MergeDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="672" y="235" key="MultipleFileMergeDialog" />
+    <state x="672" y="235" key="MultipleFileMergeDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="660" y="187" key="SettingsEditor" />
+    <state x="660" y="187" key="SettingsEditor/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="717" y="253" key="VcsDiffUtil.ChangesDialog" />
+    <state x="717" y="253" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="776" y="297" key="chooseDestDirectoryDialog" />
+    <state x="776" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" />
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="342" y="139" key="new project wizard" />
+    <state x="342" y="139" key="new project wizard/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1280.56.1280.1024@0.0.1920.1040" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PDKConverter/src/main/java/pdkconverter/S_PDKProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDKConverter/src/main/java/pdkconverter/SQLBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDKConverter/src/main/java/pdkconverter/SqlPDKProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/SqlND.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDKConverter/src/main/java/pdkconverter/ConnectDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDKConverter/src/main/java/pdkconverter/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/C_DocNorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1909">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/C_Ingredient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDKConverter/src/main/java/pdkconverter/Dublicator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/ExelBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exelerator/src/main/java/exelerator/SqlPDKProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="383" column="45" selection-start-line="383" selection-start-column="45" selection-end-line="383" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Set_Random_Time/src/setrandomtime/Mine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Set_Rand/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar!/org/apache/poi/xwpf/usermodel/XWPFDocument.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="292" selection-start-line="292" selection-end-line="292" />
+          <folding>
+            <element signature="e#14154#14155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar!/org/apache/poi/xwpf/usermodel/XWPFTable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="479" selection-start-line="479" selection-end-line="479" />
+          <folding>
+            <element signature="e#15752#15753#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar!/org/apache/poi/xwpf/usermodel/XWPFTableRow.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar!/org/apache/poi/xwpf/usermodel/XWPFTableCell.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="e#3585#3586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar!/org/apache/poi/xwpf/usermodel/XWPFParagraph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+          <folding>
+            <element signature="e#7339#7340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar!/org/apache/xmlbeans/impl/store/Xobj.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="1518" selection-start-line="1518" selection-end-line="1518" />
+          <folding>
+            <element signature="e#49451#49452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar!/org/apache/xmlbeans/impl/values/XmlObjectBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="929" selection-start-line="929" selection-end-line="929" />
+          <folding>
+            <element signature="e#4102#4103#0" expanded="true" />
+            <element signature="e#4180#4181#0" expanded="true" />
+            <element signature="e#22747#22748#0" expanded="true" />
+            <element signature="e#22793#22794#0" expanded="true" />
+            <element signature="e#29538#29539#0" expanded="true" />
+            <element signature="e#29586#29587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17.jar!/org/openxmlformats/schemas/wordprocessingml/x2006/main/impl/CTRImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="262" column="15" selection-start-line="262" selection-start-column="15" selection-end-line="262" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar!/org/apache/poi/xwpf/usermodel/XWPFRun.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="254" selection-start-line="254" selection-end-line="254" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Set_Rand/src/setrand/Mine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padeg_Exel/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="91" column="51" selection-start-line="91" selection-start-column="51" selection-end-line="91" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/PadegBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padeg_Exel/src/main/java/padeg_exel/Get_Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="101" column="46" lean-forward="true" selection-start-line="101" selection-start-column="46" selection-end-line="101" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>exelerator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>padeg-3.3.0.24</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31386292" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

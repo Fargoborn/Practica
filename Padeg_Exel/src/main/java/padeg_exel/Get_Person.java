@@ -2,6 +2,7 @@ package padeg_exel;
 
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 
@@ -21,7 +22,7 @@ public class Get_Person {
 
     public ArrayList Get_Person() throws FileNotFoundException {
 
-    final String FILENAME = "C:\\JAVA_EXEL\\Padeg_Exel\\1.xls";
+    final String FILENAME = "C:\\JAVA_EXEL\\Padeg_Exel\\22.xls";
 
     FileInputStream in = null;
     { try {in = new FileInputStream(FILENAME);
@@ -60,41 +61,47 @@ public class Get_Person {
 
     Row rowOrd = sheet.getRow(10);
     Cell DATE_ORDORD;
-    if (rowOrd.getCell(12) == null || rowOrd.getCell(12).getCellType() == Cell.CELL_TYPE_BLANK){DATE_ORDORD = rowOrd.getCell(11);}
-    else {DATE_ORDORD = rowOrd.getCell(12);}
+    if (rowOrd.getCell(34) == null || rowOrd.getCell(34).getCellType() == Cell.CELL_TYPE_BLANK){DATE_ORDORD = rowOrd.getCell(33);}
+    else {DATE_ORDORD = rowOrd.getCell(34);}
 
     Iterator<Row> it = sheet.rowIterator();// Перебираем все строки
     if (it.hasNext()) {
-        for (int i = 0; i < 17; i++) {
+        for (int i = 0; i < 18; i++) {
             it.next();
         }
         while (it.hasNext()) {
             Row row = it.next();
             Cell NAME = row.getCell(0);
-            Cell TABEL = row.getCell(1);
-            Cell S_UNIT = row.getCell(2);
-            Cell New_S_UNIT = row.getCell(3);
-            Cell PRESENT_POS = row.getCell(4);
-            Cell NEW_PRESENT_POS = row.getCell(5);
-            Cell PRISE = row.getCell(7);
-            Cell DATE_NEW_TRANSFER = row.getCell(11);
+            Cell TABEL = row.getCell(4);
+            Cell S_UNIT = row.getCell(7);
+            Cell New_S_UNIT = row.getCell(12);
+            Cell PRESENT_POS = row.getCell(17);
+            Cell NEW_PRESENT_POS = row.getCell(22);
+            Cell PRISE = row.getCell(27);
+            Cell DATE_NEW_TRANSFER = row.getCell(31);
             Cell N_ORD;
-            if(row.getCell(13).getNumericCellValue() == 0.0){N_ORD = row.getCell(12);}
-            else {N_ORD = row.getCell(13);}
+            if(row.getCell(38).getNumericCellValue() == 0.0){N_ORD = row.getCell(37);}
+            else {N_ORD = row.getCell(38);}
             Cell DATE_ORD;
-            if (row.getCell(15) == null || row.getCell(15).getCellType() == Cell.CELL_TYPE_BLANK){DATE_ORD = row.getCell(14);}
-            else {DATE_ORD = row.getCell(15);}
+            if (row.getCell(42) == null || row.getCell(42).getCellType() == Cell.CELL_TYPE_BLANK){DATE_ORD = row.getCell(41);}
+            else {DATE_ORD = row.getCell(42);}
 
             try {
                 if (TABEL != null || TABEL.getCellType() != Cell.CELL_TYPE_BLANK) {
                     name = NAME.getStringCellValue();
-                    tabel = TABEL.getNumericCellValue();
+                    //System.out.println(name);
+                    if (TABEL.getCellTypeEnum() == CellType.NUMERIC) {tabel = TABEL.getNumericCellValue();}
+                    else if (TABEL.getCellTypeEnum() == CellType.STRING) {tabel = Double.parseDouble(TABEL.getStringCellValue());}
+                    //System.out.println(tabel);
                     S_Unit = S_UNIT.getStringCellValue();
                     New_S_Unit = New_S_UNIT.getStringCellValue();
                     Present_pos = PRESENT_POS.getStringCellValue();
                     New_Present_pos = NEW_PRESENT_POS.getStringCellValue();
-                    prise = PRISE.getNumericCellValue();
+                    if (PRISE.getCellTypeEnum() == CellType.NUMERIC) {prise = PRISE.getNumericCellValue();}
+                    //else if (TABEL.getCellTypeEnum() == CellType.STRING) {prise = Double.parseDouble(TABEL.getStringCellValue());}
+                    System.out.println(prise);
                     Prise = Integer.toString ((int)prise);
+                    System.out.println(Prise);
                     StringBuffer sb = new StringBuffer(Prise);
                     if(sb.length() > 5){Prise = String.valueOf(sb.insert(3, " "));}
                     else Prise = String.valueOf(sb.insert(2, " "));

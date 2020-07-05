@@ -1,6 +1,6 @@
 package padeg_exel;
 
-import padeg.lib.Padeg;
+
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -110,10 +110,10 @@ public class PadegBean implements Serializable {
 
             try {
                 if ("auto".equals(sexStr)) {
-                    item.fio = Padeg.getFIOPadegAS(lastName, firstName, middleName, i);
+                    item.fio = padeg.lib.Padeg.getFIOPadegAS(lastName, firstName, middleName, i);
                 } else {
                     boolean sex = Boolean.parseBoolean(sexStr);
-                    item.fio = Padeg.getFIOPadeg(lastName, firstName, middleName, sex, i);
+                    item.fio = padeg.lib.Padeg.getFIOPadeg(lastName, firstName, middleName, sex, i);
                 }
             } catch (Exception e) {
                 item.fio = e.getMessage();
@@ -121,19 +121,19 @@ public class PadegBean implements Serializable {
 
             try {
                 //item.appointment = Padeg.getFullAppointmentPadeg(appointment, office, i);
-                item.appointment = Padeg.getAppointmentPadeg(appointment, i);
+                item.appointment = padeg.lib.Padeg.getAppointmentPadeg(appointment, i);
             } catch (Exception e) {
                 item.appointment = e.getMessage();
             }
 
             try {
-                item.office = Padeg.getOfficePadeg(office, i);
+                item.office = padeg.lib.Padeg.getOfficePadeg(office, i);
             } catch (Exception e) {
                 item.office = e.getMessage();
             }
 
             try {
-                item.sex = Padeg.getSex(middleName);
+                item.sex = padeg.lib.Padeg.getSex(middleName);
             } catch (Exception e) {
                 item.office = e.getMessage();
             }

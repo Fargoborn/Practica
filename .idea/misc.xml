@@ -9,10 +9,17 @@
         <option value="$PROJECT_DIR$/Padeg_Exel/pom.xml" />
         <option value="$PROJECT_DIR$/Exelerator/pom.xml" />
         <option value="$PROJECT_DIR$/Set_Random_Time/pom.xml" />
+        <option value="$PROJECT_DIR$/Pikaz_all/pom.xml" />
+        <option value="$PROJECT_DIR$/Set_Rand/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="9" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="10" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/premium/out" />
   </component>
 </project>

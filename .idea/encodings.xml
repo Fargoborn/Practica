@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Exelerator" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Exelerator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PDKConverter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PDKConverter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Pikaz_all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Set_Rand" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Set_Random_Time" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/premium" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/premium/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/premium/src/main/resources" charset="UTF-8" />

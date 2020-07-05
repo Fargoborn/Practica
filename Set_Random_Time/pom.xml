@@ -11,8 +11,8 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>setrandomtime.Main.java</mainClass>
-                            <packageName>setrandomtime</packageName>
+                            <mainClass>setrand.Main.java</mainClass>
+                            <packageName>setrand</packageName>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                         </manifest>

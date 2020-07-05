@@ -38,6 +38,14 @@
         <artifactId>commons-collections4</artifactId>
         <version>4.3</version>
     </dependency>
+        <!-- подключение пользовательской библиотеки -->
+        <dependency>
+            <groupId>ru.stackoverflow.com</groupId>
+            <artifactId>padeg-3.3.0.24</artifactId>
+            <version>${project.version}</version>
+            <scope>system</scope>
+            <systemPath>${basedir}/lib/padeg-3.3.0.24.jar</systemPath>
+        </dependency>
    </dependencies>
 
 </project>
